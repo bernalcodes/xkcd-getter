@@ -2,6 +2,8 @@
 
 This is a personal python project I developed after learning a little bit of web scraping. In few words: it goes to [xkcd.com](https://www.xkcd.com/), randomizes the comic shown, saves it and displays it on desktop. Kinda proud of it. :)
 
+![import antigravity](https://imgs.xkcd.com/comics/python.png)
+
 ## Dependencies required
 
 In this case, the dependencies used are saved in the [`requirements.txt`](./requirements.txt) file within this repo, so you can install them using `pip`:
