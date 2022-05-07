@@ -27,7 +27,9 @@ Within the code you can find two specific variables which are:
 
 ```
 PATH = "/home/felipe/Desktop/software/browser/chromedriver_linux64/chromedriver"
+
 download_path = "/home/felipe/Desktop/various/various_pics/daily_xkcd/"
+
 with open("/home/felipe/Desktop/personal/personal_software/python/xkcd_getter/log.txt","a") as f:
 ```
 
