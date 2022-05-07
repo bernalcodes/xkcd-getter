@@ -2,7 +2,9 @@
 
 This is a personal python project I developed after learning a little bit of web scraping. In few words: it goes to [xkcd.com](https://www.xkcd.com/), randomizes the comic shown, saves it and displays it on desktop. Kinda proud of it. :)
 
-<img align="center" alt="import antigravity" src="https://imgs.xkcd.com/comics/python.png">
+<div align="center">
+    <img alt="import antigravity" src="https://imgs.xkcd.com/comics/python.png">
+</div>
 
 ## Dependencies required
 
